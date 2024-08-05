@@ -29,7 +29,7 @@
 
 5. **Access the application**
 
-    Open your web browser and go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+    Open your web browser and go to [http://127.0.0.1:8000/student/](http://127.0.0.1:8000/student/).
 
 ## Docker Setup
 
@@ -47,4 +47,4 @@
 
 3. **Access the application**
 
-    Open your web browser and go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+    Open your web browser and go to [http://127.0.0.1:8000/student/](http://127.0.0.1:8000/student/).
